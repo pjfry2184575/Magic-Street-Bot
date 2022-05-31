@@ -5,7 +5,12 @@ Magic Street Bot</br>A Discord Bot,</br>using BDFD</br>
 
 
 
+
+
 <p align="center">
+<img src="https://gyazo.com/a39b4c2e09ac18a7c91f8ba3a2bdd70e.png)" /></a>   
+
+
 This is a Discord bot built for thr Location based RPG Magic Street.</br>
 </p>
 
