@@ -1,0 +1,37 @@
+$nomention
+
+$onlyForServers[972464895616503808;]
+
+
+$title[WIKI - Creatures]
+$description[
+Please select a category.
+]
+
+
+$addButton[no;MS.C.List1;Creatures;secondary;no;]
+$addButton[no;MS.C.List2;Water;secondary;no;]
+$addButton[no;MS.C.List3;Underworld;secondary;no;]
+$addButton[yes;MSBack;Back;secondary;no;]
+
+
+$removeComponent[MSBack]
+$removeComponent[MS.C.List1]
+$removeComponent[MS.C.List2]
+$removeComponent[MS.C.List3]
+$removeComponent[MSCreatures]
+$removeComponent[MSCompanions]
+$removeComponent[MSBuilding]
+$removeComponent[MSCooking]
+$removeComponent[MSBrewing]
+$removeComponent[MSTinkering]
+$removeComponent[MSBlacksmith]
+$removeComponent[MSArmor]
+$removeComponent[MSQuest]
+
+$thumbnail[https://gyazo.com/a39b4c2e09ac18a7c91f8ba3a2bdd70e.png]
+$footer[Information provided by Players of Magic Street.]
+$color[ffffff]
+$deletecommand
+$author[$username#$discriminator[]]
+$authorIcon[$authorAvatar]
