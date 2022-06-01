@@ -13,13 +13,6 @@ This is a Discord bot built for the Location based RPG Magic Street.</br>
 <details>
   <summary>Admin Commands</summary>
   <p align="center">
-
-</p>
-</details>
-
-<details>
-  <summary>Staff Commands</summary>
-  <p align="center">
 <ul>
 • ban</br>
 • unban</br>
