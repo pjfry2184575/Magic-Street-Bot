@@ -1,0 +1,32 @@
+$nomention
+$onlyForServers[972464895616503808;]
+
+$title[Magic Street Wikipedia]
+$description[__**Categories**__
+> • Creatures
+> • Companions 
+> • Settlement Building
+> • Cooking
+> • Brewing
+> • Tinkering
+> • Blacksmith
+> • Armor Workshop
+> • Quest Items
+]
+
+$addButton[no;MSCreatures;Creatures;secondary;no;]
+$addButton[no;MSCompanions;Companions;secondary;no;]
+$addButton[no;MSBuilding;Settlement Building;secondary;no;]
+$addButton[yes;MSCooking;Cooking;secondary;no;]
+$addButton[no;MSBrewing;Brewing;secondary;no;]
+$addButton[no;MSTinkering;Tinkering;secondary;no;]
+$addButton[yes;MSBlacksmith;Blacksmith;secondary;no;]
+$addButton[no;MSArmor;Armor Workshop;secondary;no;]
+$addButton[no;MSQuest;Quest Items;secondary;no;]
+
+
+$thumbnail[https://gyazo.com/a39b4c2e09ac18a7c91f8ba3a2bdd70e.png]
+$footer[Information provided by Players of Magic Street.]
+$color[52195F]
+$deletecommand
+$ignoreTriggerCase
