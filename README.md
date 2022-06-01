@@ -36,6 +36,8 @@ This is a Discord bot built for the Location based RPG Magic Street.</br>
 <details>
   <summary>User Commands</summary>
   <p align="center">
-
+<ul>
+• wiki
+</ul>
 </p>
 </details>
